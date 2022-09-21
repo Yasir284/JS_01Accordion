@@ -1,6 +1,6 @@
 ![badge](https://img.shields.io/badge/MADE%20WITH-HTML,%20CSS%20&%20JS-blue)
-![badge](https://img.shields.io/badge/TIME%20TAKEN-3-4%20hrs-red)
-[![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)]()
+![badge](https://img.shields.io/badge/TIME%20TAKEN-3%20to%204%20hrs-red)
+[![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://js-01accordion-project.netlify.app/)
 
 # JavaScript Accordion
 
@@ -10,7 +10,7 @@
 
 - It took me 3-4 hrs to make this project.
 
-  [![badge](https://img.shields.io/badge/LINK%20OF-PROJECT-darkgreen)]()
+  [![badge](https://img.shields.io/badge/LINK%20OF-PROJECT-darkgreen)](https://js-01accordion-project.netlify.app/)
 
 ---
 
